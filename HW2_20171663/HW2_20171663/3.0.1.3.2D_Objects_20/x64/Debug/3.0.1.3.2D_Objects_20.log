@@ -1,0 +1,14 @@
+﻿  3.0.1.3.2D_Objects_20.cpp
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\Objects.h(445,76): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\Objects.h(446,85): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\Objects.h(448,97): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\Objects.h(530,83): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\Objects.h(531,79): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\Objects.h(532,79): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\Objects.h(533,178): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\Objects.h(534,122): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20.cpp(64,24): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20.cpp(65,98): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20.cpp(71,19): warning C4244: '초기화 중': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20.cpp(254,35): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  3.0.1.3.2D_Objects_20.vcxproj -> C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW2_20171663\HW2_20171663\x64\Debug\3.0.1.3.2D_Objects_20.exe
