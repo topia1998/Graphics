@@ -1,0 +1,13 @@
+﻿  Tiger_Texture_PS_GLSL.cpp
+C:\usr\local\OpenGL\include\FreeImage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(832,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(906,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(980,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1054,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1128,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1343,92): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1376,105): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1517,34): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1519,31): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1520,32): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tiger_Texture_PS_GLSL.vcxproj -> C:\Users\topia1998\Desktop\족보\기초컴퓨터그래픽스\과제\HW3_20171663\HW3_20171663\Debug\Tiger_Texture_PS_GLSL.exe
